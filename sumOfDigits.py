@@ -1,3 +1,8 @@
+# Tran Huynh Trung Hieu
+# N21DCCN122
+# D21CQCN02-N
+
+
 def sumOfDigits(n):
   if n == 0:
     return 0
