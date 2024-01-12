@@ -4,3 +4,7 @@ def sumOfDigits(n):
   return n%10 + sumOfDigits(n//10)
 
 print(sumOfDigits(52))
+
+# 52 != 0: 2 + sumOfDigits(5)
+# 5 != 0: 2 + ( 5 + sumOfDigits(0))
+# 0 = 0: 2 + ( 5 + 0) = 7
