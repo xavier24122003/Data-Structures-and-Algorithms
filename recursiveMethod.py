@@ -1,3 +1,8 @@
+# Tran Huynh Trung Hieu
+# N21DCCN122
+# D21CQCN02-N
+
+
 def recursiveMethod(n):
   if n == 0:
     return "Less than 1"
