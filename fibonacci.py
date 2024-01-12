@@ -1,3 +1,7 @@
+# Tran Huynh Trung Hieu
+# N21DCCN122
+# D21CQCN02-N
+
 def fibonacci(n):
   if n in [1,2]:
     return 1
