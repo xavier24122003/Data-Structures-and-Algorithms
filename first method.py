@@ -1,3 +1,8 @@
+# Tran Huynh Trung Hieu
+# N21DCCN122
+# D21CQCN02-N
+
+
 def firstMethod():
   secondMethod()
   print("This is first method")
