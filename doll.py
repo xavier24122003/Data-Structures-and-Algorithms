@@ -1,3 +1,7 @@
+# Tran Huynh Trung Hieu
+# N21DCCN122
+# D21CQCN02-N
+
 def recursiveDoll(doll):
   if doll == 1:
     return "All dolls are opened"
