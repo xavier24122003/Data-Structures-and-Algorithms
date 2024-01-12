@@ -4,3 +4,7 @@ def gcd(a,b):
   return gcd(b,a%b)
 
 print(gcd(8,4))
+
+#gcd(8,4)
+# 4 != 0: gdc(4,0)
+# 0 == 0: return 4
