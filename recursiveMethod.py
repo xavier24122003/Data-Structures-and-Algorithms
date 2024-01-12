@@ -4,4 +4,9 @@ def recursiveMethod(n):
   recursiveMethod(n-1)
   print(n)
 
-print(recursiveMethod(20))
+print(recursiveMethod(3))
+
+# 3 != 0: recursiveMethod(2)
+# 2 != 0: recursiveMethod(1)
+# 1 != 0: recursiveMethod(0)
+# 0 = 0: Less than 1
