@@ -1,3 +1,8 @@
+# Tran Huynh Trung Hieu
+# N21DCCN122
+# D21CQCN02-N
+
+
 def powerOfTwo(n):
   if n == 0:
     return 1
